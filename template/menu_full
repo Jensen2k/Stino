@@ -30,7 +30,7 @@
 				"children":
 				[
 					{"caption": "%(Language)s", "command": "not_enable"},
-					{"caption": "%(Select_Arduino_Folder...)s", "command": "select_arduino_folder"},
+					{"caption": "%(Select Arduino.app...)s", "command": "select_arduino_folder"},
 					{"caption": "%(Change_Sketchbook_Folder...)s", "command": "add_sketchbook_folder"},
 					{"caption": "%(Full_Compilation)s", "command": "toggle_full_compilation", "checkbox": true},
 					{
