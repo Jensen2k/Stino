@@ -43,7 +43,7 @@ Stino is a Sublime Text 2 Plugin for Arduino. With this plugin, you can use Subl
 
 ##How to use this plugin?
 1. The Arduino Menu can be activated automatically or manually. If the file ypu are editting with a extention name of '.ino', the menu will appear. Or use __Preferences | Show Arduino Menu...__ to show the menu.
-2. Selecting the __Arduino directory__.
+2. Selecting the __Arduino directory__. (If you are on a Mac, this will usually be the Arduino.app-file in the Applications-directory)
 3. Editing your __Arduino Sketch__.
 4. Selecting board, processor, serial port and programmer if needed.
 5. Compilating or uploading your sketch.
